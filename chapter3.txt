@@ -1,0 +1,2 @@
+"hello World"
+printf("My name is Khan");
